@@ -27,4 +27,4 @@ streamlit run app.py
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard_home.png)
+[Dashboard](screenshots/dashboard_home.png)
