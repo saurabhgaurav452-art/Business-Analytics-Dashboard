@@ -1,0 +1,22 @@
+Order_ID,Order_Date,Customer_Name,City,State,Product,Category,Quantity,Price,Revenue,Profit
+1001,2025-01-01,Rahul,Delhi,Delhi,Laptop,Electronics,2,50000,100000,15000
+1002,2025-01-05,Amit,Mumbai,Maharashtra,Phone,Electronics,1,30000,30000,50000
+1003,2025-01-08,Sneha,Agra,Uttar Pradesh,Chair,Furniture,4,20000,80000,30000
+1004,2025-01-10,Rohan,Jaipur,Rajasthan,Table,Furniture,2,50000,10000,25000
+1005,2025-02-02,Priya,Delhi,Delhi,Laptop,Electronics,1,50000,50000,80000
+1006,2025-02-10,Karan,Mumbai,Maharashtra,Phone,Electronics,2,30000,60000,10000
+1007,2025-03-05,Neha,Agra,Uttar Pradesh,Sofa,Furniture,1,15000,15000,3000
+1008,2025-03-15,Vikas,Jaipur,Rajasthan,Table,Furniture,3,5000,15000,35000
+1009,2025-04-17,Harsh,Noida,Delhi,Faraday Cage,Electronics,2,9000,60000,40000
+10010,2025-04-18,Manish,Pune,Mumbai,Study Desk,Furniture,4,40000,40000,90000
+10011,2025-04-21,Jatin,Hyderabad,Telangana,Smartphones,Electronics,2,50000,100000,50000
+10012,2025-05-05,Vikrant,Rachi,Jharkhand,Recliner,Furniture,1,10000,15000,90000
+10013,2025-05-17,Rohit,Chennai,Tamil Nadu,Stool,Furniture,3,80000,20000,300000
+10014,2025-06-13,Sanjay,Surat,Gujarat,Lightning,Electronics,2,150000,50000,80000
+10015,2025-06-29,Raghav,Bengaluru,Karnataka,Almirah,Furniture,4,45000,40000,100000
+10016,2025-07-10,Riya,Ahmedabad,Gujarat,Dielectric Material,Electronics,1,6000,10000,25000
+10017,2025-09-13,Kartik,Kolkata,West Bengal,Patio Swing,Furniture,2,21000,20000,700000
+10018,2025-10-16,Mohit,Pune,Mumbai,Grounding,Electronics,4,80000,30000,90000
+10019,2025-10-23,Gagan,Panjab,Chandigarh,Static Eliminator,Electronics,1,90000,250000,60000
+10020,2026-01-02,Srishi,Agra,Uttar Pradesh,Laxury Motorized Recliners,Electronics,4,500000,300000,500000
+10021,2026-02-02,Saurabh,Agra,Uttar Pradesh,Electrostatic Headphone,Electronics,4,6000000,400000,6000000
